@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - QualifierApplication",
+            "request": "launch",
+            "mainClass": "org.delivery.qualifier.QualifierApplication",
+            "projectName": "qualifier"
+        }
+    ]
+}
